@@ -27,10 +27,9 @@ function Course() {
             <span className="text-pink-500">here! :) </span>
         </h1>
         <p className="mt-12">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-             Quasi, corrupti accusantium ex quod voluptates minus excepturi
-              molestias voluptatem. Accusamus maiores odio alias temporibus 
-              nihil hic itaque nisi magni incidunt beatae.
+        From gripping thrillers to inspiring biographies, our digital shelves are filled with stories that spark imagination and curiosity.<br />
+            Read anywhere, anytime — just click and dive into the world of words.<br />
+            Your perfect book is just a page away.
         </p>
         <Link to="/">
         <button className="bg-pink-500 text-white px-4 rounded-md mt-6 hover:bg-pink-700 duration-300">Back</button>

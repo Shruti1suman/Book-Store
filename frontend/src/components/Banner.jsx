@@ -12,9 +12,10 @@ function Banner() {
         <span className="text-pink-500">new everyday !!!</span>
         </h1>
         <p className="text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit nihil in eius sint officia
-             aperiam quas, numquam distinctio minima natus vel at ex non, quisquam reiciendis corrupti
-              voluptatem mollitia dicta?
+        From gripping thrillers to inspiring biographies, our digital shelves are 
+        filled with stories that spark imagination and curiosity.<br />
+            Read anywhere, anytime — just click and dive into the world of words.<br />
+            Your perfect book is just a page away.
         </p>
 
         <label className="input validator">

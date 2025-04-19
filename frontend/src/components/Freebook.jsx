@@ -67,9 +67,9 @@ function Freebook() {
     <div className=" max-w-screen-2xl container mx-auto md:px-20 px-4 ">
         <div>
       <h1 className="font-semi-bold text-xl pb-2">Free Offered Courses</h1>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Libero deserunt placeat
-         suscipit earum repellat mollitia facere nulla accusantium, similique pariatur beatae
-          praesentium nam odio recusandae quae blanditiis, ullam culpa quisquam.</p>
+      <p> No need to get dependent on price for reading anymore! Get free books to be accessed online,
+         track your reads, and never lose your place again.<br />
+      Start your next chapter with us — one page at a time.</p>
     </div>
 
     <div>
