@@ -21,7 +21,7 @@ function Course() {
   
   return (
     <>
-     <div className="max-w-screen-2xl container bg-base-200 mx-auto md:px-20 px-4">
+     <div className="max-w-screen-2xl container bg-base-200 mx-auto md:px-20 px-4 dark:bg-slate-900 dark:text-white">
       <div className="mt-28 items-center justify-center text-center">
         <h1 className="text-2xl md:text-4xl">We're delighted to have you {" "}
             <span className="text-pink-500">here! :) </span>
@@ -38,7 +38,7 @@ function Course() {
       <div className="mt-12 grid grid-cols-1 md:grid-cols-4">
         {
             book.map((item) => (
-                <Cards key={item.id} item={item}/>
+                <Cards key={item._id} item={item}/>
             ))
             
         }
