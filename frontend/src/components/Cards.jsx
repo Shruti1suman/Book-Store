@@ -6,8 +6,8 @@ function Cards({item}) {
     <>
     <div className="mt-4 my-3 p-3">
       <div className="card w-82 bg-base-100 shadow-xl hover:scale-105 duration-200 dark:bg-slate-900 text-white">
-  <figure>
-    <img
+  <figure className="h-80 w-full overflow-hidden">
+    <img className="h-full w-full object-contain"
       src={item.image}
       alt="Books" />
   </figure>
