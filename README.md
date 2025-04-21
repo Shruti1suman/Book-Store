@@ -22,8 +22,20 @@ including registration, login, and logout, along with a beautiful **light/dark m
 - Express.js
 - React.js
 - Node.js
+
+ ## Demo Link
+
+[Click me to see the app!](https://bookstore-zone19-05.netlify.app/)
   
 ## 🖥️ Screenshots
-
-*(Add screenshots here if available)*  
-Example:
+- Home Page <br>
+  ![Screenshot](./frontend/src/assets/homepage.png)
+- Login Page <br>
+  ![Screenshot](./frontend/src/assets/login.png)
+- Signup Page <br>
+  ![Screenshot](./frontend/src/assets/signup.png)
+- Course Page <br>
+  ![Screenshot](./frontend/src/assets/course.png)
+- Dark Mode <br>
+  ![Screenshot](./frontend/src/assets/dark_homepage.png)
+  
