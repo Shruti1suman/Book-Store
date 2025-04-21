@@ -25,7 +25,7 @@ including registration, login, and logout, along with a beautiful **light/dark m
 
  ## Demo Link
 
-[Click me to see the app!](https://bookstore-zone19-05.netlify.app/)
+[Click me to see the app!](https://book-store-zone.netlify.app/)
   
 ## 🖥️ Screenshots
 - Home Page <br>
