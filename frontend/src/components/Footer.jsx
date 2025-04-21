@@ -49,7 +49,7 @@ function Footer() {
     </div>
   </nav>
   <aside>
-    <p>Copyright © {new Date().getFullYear()} - All right reserved by ACME Industries Ltd</p>
+    <p>Copyright © {new Date().getFullYear()} - BookStore. All rights reserved. Designed with ❤️ by Shruti Suman</p>
   </aside>
 </footer>
     </div>
